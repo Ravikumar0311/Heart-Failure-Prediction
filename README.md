@@ -75,9 +75,6 @@ Classification Report (Precision, Recall, F1-Score)
 # Conclusion
 This project demonstrates that machine learning models, particularly XGBoost, can predict heart failure events effectively using clinical data. While accuracy is consistent, recall and F1-score improvements highlight XGBoost’s strength in identifying high-risk patients.
 
-# License
-This project is licensed under the MIT License.
-
 # Project Structure
 📁 Heart Failure Prediction/
 
@@ -89,3 +86,5 @@ This project is licensed under the MIT License.
 
 └── README.md                              # Project documentation
 
+# License
+This project is licensed under the MIT License.
