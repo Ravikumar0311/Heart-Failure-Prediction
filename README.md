@@ -3,7 +3,7 @@ This project uses machine learning techniques to predict the risk of heart failu
 
 
 # Dataset
-Name: heart_failure_clinical_records_dataset.csv [Download Here](
+Name: heart_failure_clinical_records_dataset.csv [Download Here](heart_failure_clinical_records_dataset.csv)
 
 Description: Contains 13 clinical features of 299 patients along with a binary target variable indicating death due to heart failure.
 
