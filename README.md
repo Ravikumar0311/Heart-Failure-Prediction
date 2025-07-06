@@ -67,7 +67,7 @@ Classification Report (Precision, Recall, F1-Score)
 # Models & Results:
 | Model               | Accuracy | Precision | Recall | F1-score |
 | ------------------- | -------- | --------- | ------ | -------- |
-| Logistic Regression | 87.50%   | 0.89      | 0.77   | 0.83     |
+| Logistic Regression | 82.50%   | 0.70      | 0.63   | 0.77     |
 | Decision Tree       | 81.25%   | 0.75      | 0.73   | 0.74     |
 | Random Forest       | 84.44%   | 0.80      | 0.615  | 0.695    |
 | XGBoost             | 84.44%   | 0.714     | 0.769  | 0.740    |
